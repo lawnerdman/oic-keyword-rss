@@ -1,0 +1,8 @@
+{
+  "name": "oic-keyword-rss",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "rss": "^1.2.2"
+  }
+}
